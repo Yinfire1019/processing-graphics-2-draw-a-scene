@@ -13,6 +13,7 @@ void setup() {
 
 void draw() {
          
+         stroke(0,0,0);
          strokeWeight(1);
          fill(254,254,254);
          ellipse(346,150,120,120);
@@ -28,5 +29,21 @@ void draw() {
          line(326,185,365,185);
          //mouth of snow man
          
-         fill(
+         stroke(254,254,254);
+         fill(204,0,0);
+         ellipse(346,155,20,20);
+         //nose
+         
+         fill(255,204,204);
+         ellipse(310,160,30,30);
+         fill(255,204,204);
+         ellipse(380,160,30,30);
+          //face
+          
+          
+         
+         
+         
+         
+       
 }
