@@ -40,9 +40,22 @@ void draw() {
          ellipse(380,160,30,30);
           //face
           
+          strokeWeight(1);
+          stroke(0,0,0);
+          fill(254,254,254);
+          ellipse(346,335,250,250);
+         //The body of snow man
+         
+          stroke(255,255,255);
+          fill(102,255,255);
+          rect(331,228,30,210,6);         
+          //clothes
           
-         
-         
+          stroke(255,255,255);
+          fill(102,178,255);
+          rect(316,210,60,30,7);
+          //clothes
+                 
          
          
        
