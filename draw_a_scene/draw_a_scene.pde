@@ -84,6 +84,9 @@ void draw() {
           fill(204,153,255);
           ellipse(345,425,10,10);
           //button
-
-
+           
+           
+           strokeWeight(4);
+          text("snow",300,350);
+          text("man",361,350);
 }
